@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sochuks
 - 👀 I’m building Responsive Web Applications with Python & JavaScript
-- 🌱 I’m currently learning React Framework & REST_API
+- 🌱 I’m currently learning React Framework & Django REST_API
 - 💞️ I’m looking to collaborate on Web App Solutions
 - 📫 Send mail to moseschukwumakajang@gmail.com 
 
