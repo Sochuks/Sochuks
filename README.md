@@ -1,8 +1,19 @@
 - 👋 Hi, I’m @Sochuks
-- 👀 I’m building Responsive Web Applications with Python & JavaScript
-- 🌱 I’m currently learning React Framework & Django REST_API
-- 💞️ I’m looking to collaborate on Web App Solutions
-- 📫 Send mail to moseschukwumakajang@gmail.com 
+- 💞️Passionate about building sustainable web solutions using JavaScript & Python.
+- 🌱 I am currently learning React & mastering the intricacies of Django REST API. 
+- 👀 Open to Frontend & Backend roles - I relish challenges.
+- 🤝If you’re working on exciting web development open source projects, I’d love to collaborate! 
+- 📫 Feel free to reach out to me!
+  
+  <div id="header">
+    <a href="https://www.linkedin.com/in/moses-kajang-694480161" target="_blank">
+      <img src="https://img.shields.io/badge/Moses Kajang-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+
+    <a href="mailto:moseschukwumakajang@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Moses Kajang-red?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+  </div>
 
 <!---
 Sochuks/Sochuks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
