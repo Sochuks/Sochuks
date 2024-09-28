@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sochuks
 - 💞️Passionate about building sustainable web solutions using JavaScript & Python.
-- 🌱 I am currently learning React & mastering the intricacies of Django REST API. 
+- 🌱 I am currently learning React & mastering the intricacies of Express and REST API. 
 - 👀 Open to Frontend & Backend roles - I relish challenges.
 - 🤝If you’re working on exciting web development open source projects, I’d love to collaborate! 
 - 📫 Feel free to reach out to me!
